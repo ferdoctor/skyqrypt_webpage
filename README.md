@@ -21,5 +21,5 @@ Open `http://localhost:8080`.
 
 - Confirm that `info@skyqrypt.com` remains the correct public contact address.
 - Review all claims, service descriptions, and metrics against the actual offering.
-- Replace the remote Unsplash images with owned or licensed production assets if desired.
+- Stock photographs are stored locally in `assets/images`; replace them with owned production assets before launch if desired.
 - Add your legal entity details, privacy policy, and social links.

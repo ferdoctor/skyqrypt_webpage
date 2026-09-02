@@ -163,7 +163,7 @@ svg {
 .hero-image {
   position: absolute;
   inset: 0;
-  background-image: linear-gradient(90deg, rgba(3, 13, 10, 0.86) 0%, rgba(3, 13, 10, 0.55) 48%, rgba(3, 13, 10, 0.08) 100%), linear-gradient(0deg, rgba(3, 13, 10, 0.7), transparent 45%), url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=2000&q=88");
+  background-image: linear-gradient(90deg, rgba(3, 13, 10, 0.86) 0%, rgba(3, 13, 10, 0.55) 48%, rgba(3, 13, 10, 0.08) 100%), linear-gradient(0deg, rgba(3, 13, 10, 0.7), transparent 45%), url("assets/images/hero-orbit-desktop.webp");
   background-position: center;
   background-size: cover;
   transform: scale(1.02);
@@ -849,7 +849,7 @@ h2 em {
 
 .company-image {
   min-height: 650px;
-  background-image: linear-gradient(90deg, transparent 55%, rgba(16, 36, 28, 0.7)), url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=88");
+  background-image: linear-gradient(90deg, transparent 55%, rgba(16, 36, 28, 0.7)), url("assets/images/earth-network.webp");
   background-position: center;
   background-size: cover;
 }
@@ -1118,7 +1118,7 @@ footer nav {
   }
 
   .hero-image {
-    background-image: linear-gradient(0deg, rgba(3, 13, 10, 0.92) 8%, rgba(3, 13, 10, 0.42) 70%, rgba(3, 13, 10, 0.3)), url("https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=900&q=85");
+    background-image: linear-gradient(0deg, rgba(3, 13, 10, 0.92) 8%, rgba(3, 13, 10, 0.42) 70%, rgba(3, 13, 10, 0.3)), url("assets/images/hero-orbit-mobile.webp");
     background-position: 60% center;
   }
 
